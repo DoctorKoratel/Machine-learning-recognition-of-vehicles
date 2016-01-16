@@ -1,6 +1,6 @@
-/Books/basic theory/*.log
-/Books/basic theory/*.toc
-/Books/basic theory/*.aux
-/Books/basic theory/*.synctex.gz
-/Books/basic theory/*.blg
-/Books/basic theory/*.bbl
+/Books/*.log
+/Books/*.toc
+/Books/*.aux
+/Books/*.synctex.gz
+/Books/*.blg
+/Books/*.bbl
